@@ -1,0 +1,24 @@
+{
+  "viajes": {
+    "initial": "Hola {nombre} ✈️ — gracias por comentar en «{post_titulo}». Te dejo un tip rápido: ¿eres de maleta ligera o de llevarlo todo? (responde con una palabra y te regalo 1 truco práctico).",
+    "followup_48h": "Hola {nombre} — ¿te fue útil el tip? Tengo un PDF corto con 5 trucos para viajes que cambian la experiencia. ¿Te lo envio por aquí o prefieres que te lo pase por WhatsApp? {wa_link}",
+    "followup_7d": "Hola {nombre} — no quiero abusar, solo recordar: si quieres la guía rápida dímelo con un “sí” y te la envío al instante.",
+    "derivation": "Me encanta — te lo detallo por WhatsApp con fotos y sugerencias según tu estilo. Entra aquí y te escribo ahora: {wa_link}"
+  },
+  "crecimiento": {
+    "initial": "Hola {nombre} 🌿 — gracias por comentar en «{post_titulo}». En mi experiencia, 5 minutos al día bien estructurados hacen magia. ¿Te interesa una mini-rutina para probar 30 días?",
+    "followup_48h": "Hola {nombre}, ¿probaste la idea de 5 minutos? Si quieres te mando una guía práctica para 30 días (muy sencilla). ¿Te la paso por aquí o prefieres descargarla en un formulario?",
+    "followup_7d": "Hola {nombre} — si te apetece, te adapto la rutina en 2 frases según tu día. ¿Te la preparo?",
+    "derivation": "Aquí tienes la guía para descargar: {form_link} — si quieres, te la personalizo por WhatsApp: {wa_link}"
+  },
+  "negocio": {
+    "initial": "Hola {nombre} 🚀 — gracias por comentar en «{post_titulo}». Tip express: antes de decidir deberiamos tener toda la información básica sobre un negocio. Quieres que te pase lo básico para entender lo que hago?",
+    "followup_48h": "Hola {nombre}, ¿te interesa aprender rápido? Te envío una historía de superación personal con un ejemplo real. ¿Por WhatsApp o prefieres descargarla?",
+    "followup_7d": "Hola {nombre} — si te gusto la historía que te envíe antes te invito a una presentación online o prefieres presencial. ¿Te animas?",
+    "derivation": "Perfecto — Te mando los detalles por WhatsApp: {wa_link}. Si prefieres, podemos agendar una videollamada primero y nos conocemos: {form_link}"
+  },
+  "generic": {
+    "consent_request": "Antes de enviarte materiales, confirmo: ¿aceptas que use tu número/email para enviarte la guía solicitada y un único seguimiento? Puedes cancelar cuando quieras.",
+    "thanks_short": "Gracias, {nombre} — en un momento te envío todo. 😊"
+  }
+}
