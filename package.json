@@ -1,0 +1,13 @@
+{
+  "name": "ig-dm-automation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "googleapis": "^131.0.0"
+  }
+}
